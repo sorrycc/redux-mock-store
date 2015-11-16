@@ -1,4 +1,3 @@
-import expect from 'expect';
 import { applyMiddleware } from 'redux';
 
 export default function configureStore(middlewares) {
